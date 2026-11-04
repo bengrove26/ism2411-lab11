@@ -1,2 +1,11 @@
-# ism2411-lab11
-Module 11 Lab Assignment
+# ISM2411 Lab 11 — Customer Dictionary & Lookup
+
+**Name:** Ben Grove
+
+## How to Run
+
+From this folder:
+
+```
+python3 customers.py
+```
