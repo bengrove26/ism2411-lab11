@@ -2,6 +2,9 @@
 # Author: Ben Grove #
 # Module 11 Lab #
 
+# Reflection 1 - In real work I think I would choose .get over bracket notation. This is because .get allows me to provide sometihng if it isn't found instead of just an error. This seems more proffesional to me.
+# Reflection 2 - This reminds me of creating data tables and using the sum function to get the total values. When it comes to large data sets it is better to loop the dictonary becasue it takes up significntly less data than excel does making it cheaper for businesses.
+
 print("---Exercise 1---")
 
 customer = {
