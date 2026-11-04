@@ -3,6 +3,7 @@
 # Module 11 Lab #
 
 print("---Exercise 1---")
+
 customer = {
     "name": "Alice",
     "Name": "Not-Alice",
@@ -27,6 +28,7 @@ del customer["email"]
 print(customer)
 
 print("---Exercise 3---")
+
 print(customer.get('email', "no email on file"))
 
 try:
@@ -68,6 +70,7 @@ for record in customers:
     print(f"{record['name']} {record['tier']}: ${discount:.2f} off a $300 purchase")
 
 print("---Exercise 7---")
+
 catalog = {
     "Widget A": {"price": 9.99, "stock": 150},
     "Gadget C": {"price": 49.99, "stock": 8}
